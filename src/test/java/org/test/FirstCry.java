@@ -23,5 +23,7 @@ private void endTime() {
 	System.out.println("hai");
 	System.out.println("Hello clone");
 	System.out.println("Done my coding");
+	System.out.println("Rithanya adding line");
+	System.out.println("rithanya going to merge");	
 }
 }
