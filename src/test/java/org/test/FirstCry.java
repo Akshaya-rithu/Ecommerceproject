@@ -21,5 +21,7 @@ private void startTime() {
 @AfterMethod
 private void endTime() {
 	System.out.println("hai");
+	System.out.println("Hello clone");
+	System.out.println("Done my coding");
 }
 }
